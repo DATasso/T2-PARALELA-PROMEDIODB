@@ -14,9 +14,9 @@ g++ promediosDB.cpp -lpqxx -lpq
 ```
 ### Ejecución
 - C++ Windows
-    `./main.exe
+    `./main.exe`
 - C++ Linux
-    `./a.out
+    `./a.out`
 
 #### Autores
 - Daniel Aguilera Tasso
